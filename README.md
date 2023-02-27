@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Easybank landing page](https://your-solution-url.com)
-- Live Site URL: [Easybank landing page](https://your-live-site-url.com)
+- Solution URL: [Easybank landing page](https://github.com/wuzgood98/easybank-landing-page)
+- Live Site URL: [Easybank landing page](https://wuzgood98.github.io/easybank-landing-page/)
 
 ## My process
 
