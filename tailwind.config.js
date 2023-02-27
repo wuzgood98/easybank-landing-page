@@ -17,8 +17,8 @@ module.exports = {
         publicSans: ["Public Sans", "sans-serif"],
       },
       backgroundImage: {
-        introDesktop: "url('/src/images/bg-intro-desktop.svg')",
-        introMobile: "url('/src/images/bg-intro-mobile.svg')",
+        introDesktop: "url('./src/images/bg-intro-desktop.svg')",
+        introMobile: "url('./src/images/bg-intro-mobile.svg')",
       },
     },
   },
