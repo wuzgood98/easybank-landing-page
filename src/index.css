@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#menu_button.active #top {
+  transform: translateY(.45rem) rotate(45deg);
+}
+
+#menu_button.active #middle {
+  opacity: 0;
+  transform: scale(0);
+}
+
+#menu_button.active #bottom {
+  transform: translateY(-.45rem) rotate(-45deg);
+}
