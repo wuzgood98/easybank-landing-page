@@ -16,10 +16,6 @@ module.exports = {
       fontFamily: {
         publicSans: ["Public Sans", "sans-serif"],
       },
-      backgroundImage: {
-        introDesktop: "url('./src/images/bg-intro-desktop.svg')",
-        introMobile: "url('./src/images/bg-intro-mobile.svg')",
-      },
     },
   },
   future: {
